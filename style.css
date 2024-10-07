@@ -1,0 +1,35 @@
+
+   
+#heading{
+    text-align: center;
+}
+#heading1,#heading3{
+    float: left;
+    margin-left: 10px; 
+}
+#heading2{
+    float: right;
+    margin-right:10px;
+}
+.clear{
+    clear: both;
+}
+.container{
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 80%;
+    margin-top: 100px;
+    background-color:white;
+    color:black;
+}
+.table{
+    margin: 0 auto;
+    width: 500px;
+    height: 250px;
+}
+#tm,#mo,#grade{
+    margin-left:10px;
+}
+td,th{
+  padding:10px;
+}
